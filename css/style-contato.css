@@ -1,0 +1,65 @@
+.form {
+    flex-direction: column;
+    display: flex;
+}
+
+.field {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 3px;
+    border-color: #7D1220;
+    border-style: solid;
+    outline: none;
+}
+
+.interna-contato {
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin-bottom: 20px;
+}
+
+.intro-dados {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.intro-dados:after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background:#7D1220;
+    margin: 4px auto;
+}
+
+.dados {
+    text-align: center;
+}
+
+.dados li {
+    padding: 10px;
+}
+
+.intro-dados {
+    margin-top: 25px;
+}
+
+.redes {
+    margin-top: 10px;
+    margin-left: 130px
+}
+
+.redes li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.redes li a {
+    display: block;
+}
+
+.redes li a:hover {
+    color: #fff;
+}

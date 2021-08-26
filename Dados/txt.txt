@@ -1,0 +1,10 @@
+DADOS = 
+
+nome = Líga C Passamani
+
+email = Algo@gmail.com
+
+menssagem = Mensagem que quiser escrever
+
+Se o site tivesse dominio próprio e o email pudesse ser enviado, este iria para o meu dominio.
+

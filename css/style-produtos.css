@@ -1,0 +1,53 @@
+.img-corretor {
+    margin-top: 30px;
+}
+
+.intro-img ul li {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.intro-img ul li:after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background:#7D1220;
+}
+
+.img-display {
+    background: #7D1220;
+    padding: 22px 22px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.img-display ul li{
+    padding: 5px;
+}
+
+.img-display ul li:nth-child(even) {
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    padding: 2px;
+}
+
+.valores ul li:nth-child(odd) {
+    margin-top: 120px;
+    padding: 20px;
+    font-size: 28px;
+}
+
+.valores ul li:nth-child(even) {
+    padding: 10px;
+    font-size: 28px;
+}
+
+.valores ul li:nth-child(3) {
+    margin-top: 220px;
+}
+
+.valores ul li:nth-child(5) {
+    margin-top: 220px;
+}

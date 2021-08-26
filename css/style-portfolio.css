@@ -1,0 +1,30 @@
+.interna_portfolio p{
+    margin-top: 10px;
+}
+
+.img-quadrado {
+    margin-bottom: 20px;
+}
+
+.img-img{
+    background-color: #7D1220;
+    width: 100%;
+}
+
+.img-img ul li:nth-child(1){
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-img ul li:nth-child(2){
+    margin-top: 20px;
+}
+
+.img-img ul li:nth-child(3){
+    margin-bottom: 20px;
+}
+
+.img-img ul li:nth-child(6){
+    margin-top: 20px;
+    margin-left: 240px;
+}
